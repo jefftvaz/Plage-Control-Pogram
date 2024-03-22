@@ -1,0 +1,3 @@
+﻿Alterar a organização para outro caracter. => de (,) para (-). Por causa que poderia vir a ser utilizado e um texto grande. 
+Maneira de organizar o propio banaco de dados. em ordem por id.
+Consumir o banco de dados para fazer operações.
